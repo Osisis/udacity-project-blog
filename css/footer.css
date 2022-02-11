@@ -1,0 +1,13 @@
+.footer li {
+	display: block;
+	text-align: center;
+	padding: 20px 20px 20px 20px;
+}
+
+.top_footer {
+	width: 100;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 45px 0px 0px 0px;
+}
