@@ -33,6 +33,10 @@ body {
 	padding: 35px 35px;
 }
 
+.main_part {
+	width: 100%
+}
+
 #header_img {
 	display: flex;
 	width: 100%;
